@@ -1,3 +1,8 @@
+
+
+
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/release-v0.0.1-blue" />
   <img src="https://img.shields.io/badge/license-MIT-green" />
@@ -5,6 +10,17 @@
   <img src="https://img.shields.io/github/stars/Abhishek6122008/Reserch-Earthquake-Project?style=social" />
   <img src="https://img.shields.io/github/forks/Abhishek6122008/Reserch-Earthquake-Project?style=social" />
   <img src="https://img.shields.io/github/watchers/Abhishek6122008/Reserch-Earthquake-Project?style=social" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Abhishek6122008/Reserch-Earthquake-Project">
+    <img 
+      src="https://i.postimg.cc/7L8fCLpy/Gray-and-Green-Minimalist-Quote-Desktop-Wallpaper.png"
+      alt="Quantum Leap"
+      width="900"
+      style="border-radius: 20px;"
+    />
+  </a>
 </p>
 
 # CNN Based P and S waves arrival detection
